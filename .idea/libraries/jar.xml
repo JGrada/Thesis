@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/Prática/build/jar/aula2_ex4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/Prática/build/jar/aula1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/Prática/build/jar/aula3_ex9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/Prática/build/jar/aula2_ex2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/Prática/build/jar/aula3_ex7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

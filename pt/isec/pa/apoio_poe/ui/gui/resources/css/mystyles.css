@@ -1,0 +1,111 @@
+.buttonFase1{
+    -fx-text-fill: white;
+    -fx-font-family: 'Source Sans Pro', sans-serif;
+    -fx-background-color: #04AA6D;
+    -fx-font-size: 14px;
+}
+.buttonFase1:hover{
+    -fx-background-color: #4caf50;
+}
+
+.buttonFase2{
+    -fx-text-fill: white;
+    -fx-font-family: 'Source Sans Pro', sans-serif;
+    -fx-background-color: #04AA6D;
+    -fx-font-size: 14px;
+
+}
+.buttonFase2:hover{
+    -fx-background-color: #4caf50;
+
+}
+.buttonSair{
+    -fx-text-fill: white;
+    -fx-font-family: 'Source Sans Pro', sans-serif;
+    -fx-background-color: red;
+    -fx-font-size: 14px;
+}
+.buttonSair:hover{
+    -fx-background-color: darkRed;
+
+}
+.buttonFecharFase1{
+    -fx-text-fill: white;
+    -fx-font-family: 'Source Sans Pro', sans-serif;
+    -fx-background-color: #04AA6D;
+    -fx-font-size: 14px;
+}
+.buttonFecharFase1:hover{
+    -fx-background-color: #4caf50;
+}
+
+.labelEscolha{
+    -fx-font-family: 'Source Sans Pro', sans-serif;
+    -fx-font-size: 14px;
+}
+
+.buttonConfirm{
+    -fx-background-color: red;
+    -fx-text-fill: white;
+    -fx-border-width: 5px;
+}
+
+.buttonGestaoAL{
+    -fx-text-fill: white;
+    -fx-font-family: 'Source Sans Pro', sans-serif;
+    -fx-background-color: #04AA6D;
+    -fx-font-size: 14px;
+}
+.buttonGestaoAL:hover{
+    -fx-background-color: #4caf50;
+}
+
+.gridInsereAluno{
+    -fx-background-colour: #FFFFFF;
+}
+
+.buttonGestaoDOC{
+    -fx-text-fill: white;
+    -fx-font-family: 'Source Sans Pro', sans-serif;
+    -fx-background-color: #04AA6D;
+    -fx-font-size: 14px;
+}
+.buttonGestaoDOC:hover{
+    -fx-background-color: #4caf50;
+}
+.buttonGestaoPROP{
+    -fx-text-fill: white;
+    -fx-font-family: 'Source Sans Pro', sans-serif;
+    -fx-background-color: #04AA6D;
+    -fx-font-size: 14px;
+}
+
+.buttonGestaoPROP:hover{
+    -fx-background-color: #4caf50;
+}
+
+.buttonVoltar{
+     -fx-background-color: white;
+     -fx-font-family: 'Source Sans Pro', sans-serif;
+     -fx-text-fill: red;
+     -fx-font-size: 14px;
+}
+.buttonVoltar:hover{
+     -fx-background-color: #faf5e8;
+}
+
+.labelInsereAluno{
+     -fx-font-family: 'Source Sans Pro', sans-serif;
+     -fx-font-size: 14px;
+}
+.buttonConfirm{
+    -fx-font-family: 'Source Sans Pro', sans-serif;
+    -fx-background-color: red;
+    -fx-text-fill: white;
+    -fx-border-width: 5px;
+    -fx-font-size: 14px;
+}
+.buttonConfirm:hover{
+    -fx-background-color: #f76a74;
+}
+
